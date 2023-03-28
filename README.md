@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Hello! My name is Dukho Donovan Kim, and while I have a strong background in finance and business development, I have recently discovered a passion 
+My name is Dukho Donovan Kim.  While I have a strong background in finance and business development, I have recently discovered a passion 
 for data science. With more than 20 years of experience in investment banking, consumer finance, and solar power project development, I am a 
 specialist in financial modeling, investment research, and data analysis.
 

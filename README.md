@@ -5,7 +5,7 @@ for data science. With more than 20 years of experience in investment banking, c
 specialist in financial modeling, investment research, and data analysis.
 
 As a CFA charterholder, my finance expertise provides a solid foundation for my training in the Jovian data science bootcamp, where I received over 
-500 hours of training in Python, statistics, data analysis and visualization, machine learning, SQL, and Power BI/Tableau. Armed with these skills, 
+600 hours of training in Python, statistics, data analysis and visualization, machine learning, SQL, and Power BI/Tableau. Armed with these skills, 
 I am eager to tackle new challenges and explore the limitless potential of data science.
 
 Here are some ideas to get you started:
